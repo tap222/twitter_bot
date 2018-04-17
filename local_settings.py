@@ -5,10 +5,10 @@ Local Settings for a heroku_ebooks account.
 # Configuration for Twitter API
 ENABLE_TWITTER_SOURCES = True # Fetch twitter statuses as source
 ENABLE_TWITTER_POSTING = True # Tweet resulting status?
-MY_CONSUMER_KEY = '5QYu2r9deaaAGj0d0n9T4x8MD'
-MY_CONSUMER_SECRET = 'yd8tNb04YdhBPJZs48pBLPw5gEHH6cPS4R2TRc30TtUd9nX6jc'
-MY_ACCESS_TOKEN_KEY = '2322080065-XRQGPHGClhUckRCNGpzRm2a0NCSm7QCopjt4E5Z'
-MY_ACCESS_TOKEN_SECRET = 'cgqUb4j6IAKNiM13Q6mWpRn0N5XHkMxzmA8WuRvu7iq0l'
+MY_CONSUMER_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+MY_CONSUMER_SECRET = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+MY_ACCESS_TOKEN_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+MY_ACCESS_TOKEN_SECRET = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # Configuration for Mastodon API
 ENABLE_MASTODON_SOURCES = False # Fetch mastodon statuses as a source?
@@ -33,4 +33,4 @@ ODDS = 1  # How often do you want this to run? 1/8 times?
 ORDER = 2  # How closely do you want this to hew to sensical? 2 is low and 4 is high.
 
 DEBUG = False  # Set this to False to start Tweeting live
-TWEET_ACCOUNT = "bot_iot"  # The name of the account you're tweeting to.
+TWEET_ACCOUNT = "xxxxxxx"  # The name of the account you're tweeting to.
